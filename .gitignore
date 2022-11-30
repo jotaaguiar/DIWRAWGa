@@ -29,3 +29,5 @@ yarn-error.log*
 
 # vs code
 .vscode
+
+/public/README.md
